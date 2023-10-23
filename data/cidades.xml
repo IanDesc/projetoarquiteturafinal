@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cidades>
+    <cidade>
+        <ID>1</ID>
+        <Nome>Afonso Cláudio</Nome>
+        <Estado>8</Estado>
+    </cidade>
+    <cidade>
+        <ID>2</ID>
+        <Nome>Água Doce do Norte</Nome>
+        <Estado>8</Estado>
+    </cidade>
+    <cidade>
+        <ID>3</ID>
+        <Nome>Águia Branca</Nome>
+        <Estado>8</Estado>
+    </cidade>
+    <cidade>
+        <ID>4</ID>
+        <Nome>Alegre</Nome>
+        <Estado>8</Estado>
+    </cidade>
+</cidades>
